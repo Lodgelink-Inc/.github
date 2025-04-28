@@ -1,6 +1,6 @@
 # .github
 
-## This repository contains organization-wide GitHub configurations for shared use across Lodgelink-Inc repositories. It helps maintain consistency, reduce duplication, and streamline development workflows.
+## This repository contains organization-wide GitHub configurations for shared use across the organizations repositories. It helps maintain consistency, reduce duplication, and streamline development workflows.
 
 ## What’s in This Repository
 
